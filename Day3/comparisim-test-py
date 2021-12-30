@@ -1,0 +1,17 @@
+a = 0
+if a > 0:
+    print(f'{a} is a positive number')
+
+elif a < 0: 
+    print(f'{a} is a negative number')
+elif a == 0: 
+    print(f'{a} is zero')
+else: 
+    PRINT('we dont know aabout this number')
+
+weather = input
+
+a = [1,2,3].clear()
+print(a)
+
+
